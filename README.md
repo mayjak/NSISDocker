@@ -1,6 +1,6 @@
 # Docker Image to compile NSIS scripts
 
-**Forked from HP41/NSISDocker**
+**Forked from HP41/NSISDocker, removed default ENTRYPOINT and updated NSIS version**
 
 **Please note the purpose of this container is to aid in compiling NSIS scripts and not running the installers themselves**
 
